@@ -45,4 +45,6 @@
 
 if(1 === 1){
     console.log('wassup');
+} else{
+    console.log('wassup feat future');
 }
